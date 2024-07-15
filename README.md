@@ -51,10 +51,9 @@
 •	Test accuracy: 93.68%  
 •	Precision, Recall, and F1 scores for both training and test sets indicate good performance.
 ### 	Decision Tree (DT):
-•
-Training accuracy: 94.18%
-•	Test accuracy: 88.42%
-•	Slightly lower performance compared to logistic regression.
+•Training accuracy: 94.18%  
+•	Test accuracy: 88.42%  
+•	Slightly lower performance compared to logistic regression.  
 ### Random Forest (RF):
 •	Training accuracy: 100%
 •	Test accuracy: 92.63%
