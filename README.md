@@ -2,10 +2,10 @@
 
 ## Introduction and Goal
 ### Introduction:
-•	The rapid growth of digital transactions has led to an increase in credit card fraud, posing significant financial risks to consumers and institutions. Effective fraud detection systems are essential to mitigate these risks.
+•	The rapid growth of digital transactions has led to an increase in credit card fraud, posing significant financial risks to consumers and institutions. Effective fraud detection systems are essential to mitigate these risks.  
 •	This project leverages machine learning techniques to develop and evaluate models for detecting fraudulent transactions in a dataset of credit card transactions.
 ### Goal:
-•	The primary goal of this project is to build a robust credit card fraud detection system that can accurately identify fraudulent transactions.
+•	The primary goal of this project is to build a robust credit card fraud detection system that can accurately identify fraudulent transactions.  
 •	To achieve this, multiple machine learning models will be trained and evaluated, with the best-performing model selected for deployment.
 
 ## Dataset Overview
@@ -55,9 +55,9 @@
 •	Test accuracy: 88.42%  
 •	Slightly lower performance compared to logistic regression.  
 ### Random Forest (RF):
-•	Training accuracy: 100%
-•	Test accuracy: 92.63%
-•	Excellent performance on training data but slightly lower on test data due to potential overfitting.
+•	Training accuracy: 100%  
+•	Test accuracy: 92.63%  
+•	Excellent performance on training data but slightly lower on test data due to potential overfitting.  
 
 ## Model Comparison
 •	Compared the accuracy of the three models using a bar plot, highlighting logistic regression as the best-performing model for this dataset.
