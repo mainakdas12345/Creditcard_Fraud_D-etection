@@ -70,6 +70,7 @@ Training accuracy: 94.18%
 •	Loaded the saved model and demonstrated a prediction, indicating whether a transaction is legitimate or fraudulent.
 
 ## Conclusion
-•	Successfully implemented and evaluated three machine learning models for credit card fraud detection.
+•	Successfully implemented and evaluated three machine learning models for credit card fraud detection.  
+knk
 •	Logistic regression model showed the best performance and was selected for deployment.
 •	Future improvements could include exploring more advanced techniques for handling imbalanced data and incorporating additional features or data sources.
