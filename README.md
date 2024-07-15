@@ -1,6 +1,5 @@
 # Creditcard_Fraud_Detection
 
-** Project Report: Credit Card Fraud Detection **
 1. Introduction and Goal
 •	Introduction:
 o	The rapid growth of digital transactions has led to an increase in credit card fraud, posing significant financial risks to consumers and institutions. Effective fraud detection systems are essential to mitigate these risks.
