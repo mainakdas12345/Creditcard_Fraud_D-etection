@@ -43,14 +43,14 @@ o	Extracted all columns except 'Class'.
 o	Used the 'Class' column as the target variable.
 
 ## Train-Test Split
-•	Split the balanced dataset into training (80%) and testing (20%) sets to ensure the model is evaluated on unseen data.
+o	Split the balanced dataset into training (80%) and testing (20%) sets to ensure the model is evaluated on unseen data.
 
-8. Model Training and Evaluation
-•	Logistic Regression (LR):
+## Model Training and Evaluation
+### Logistic Regression (LR):
 o	Achieved training accuracy: 94.18%
 o	Test accuracy: 93.68%
 o	Precision, Recall, and F1 scores for both training and test sets indicate good performance.
-•	Decision Tree (DT):
+### 	Decision Tree (DT):
 o	Training accuracy: 94.18%
 o	Test accuracy: 88.42%
 o	Slightly lower performance compared to logistic regression.
