@@ -8,41 +8,41 @@ o	This project leverages machine learning techniques to develop and evaluate mod
 o	The primary goal of this project is to build a robust credit card fraud detection system that can accurately identify fraudulent transactions.
 o	To achieve this, multiple machine learning models will be trained and evaluated, with the best-performing model selected for deployment.
 
-2. Dataset Overview
-•	Dataset:
+## Dataset Overview
+### Dataset:
 o	The dataset contains credit card transactions, including 284,807 rows and 31 columns, where each row represents a transaction and columns represent various attributes of the transaction, including a 'Class' column indicating fraud (1) or non-fraud (0).
 
-3. Data Exploration
-•	Top and Bottom Rows:
+## Data Exploration
+### Top and Bottom Rows:
 o	Displayed the first and last 5 rows to understand the data structure and contents.
-•	Data Shape:
+### Data Shape:
 o	The dataset comprises 284,807 transactions (rows) and 31 attributes (columns).
-•	Data Information:
+### Data Information:
 o	All columns are numeric, with no missing values.
 
-4. Data Preprocessing
-•	Null Values:
+## Data Preprocessing
+### Null Values:
 o	Confirmed there are no null values in the dataset.
-•	Feature Scaling:
+### Feature Scaling:
 o	Applied standard scaling to the 'Amount' column to normalize transaction amounts.
-•	Duplicate Values:
+### Duplicate Values:
 o	Identified and removed 1,081 duplicate rows, resulting in 283,726 unique transactions.
-•	Time Column:
+### Time Column:
 o	Converted the 'Time' column from float to integer type for consistency.
 
-5. Handling Imbalanced Data
-•	Class Distribution:
+## Handling Imbalanced Data
+### Class Distribution:
 o	Identified significant class imbalance with 283,253 non-fraudulent transactions and only 473 fraudulent transactions.
-•	Undersampling:
+### Undersampling:
 o	Balanced the dataset by undersampling non-fraudulent transactions to match the number of fraudulent transactions, resulting in 946 transactions (473 fraud and 473 non-fraud).
 
-6. Feature Matrix and Target Variable
-•	Feature Matrix (X):
+## Feature Matrix and Target Variable
+### Feature Matrix (X):
 o	Extracted all columns except 'Class'.
-•	Target Variable (Y):
+### Target Variable (Y):
 o	Used the 'Class' column as the target variable.
 
-7. Train-Test Split
+## Train-Test Split
 •	Split the balanced dataset into training (80%) and testing (20%) sets to ensure the model is evaluated on unseen data.
 
 8. Model Training and Evaluation
