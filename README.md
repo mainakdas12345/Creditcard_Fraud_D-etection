@@ -1,10 +1,10 @@
-# Creditcard_Fraud_Detection
+# Credit Card Fraud Detection
 
-1. Introduction and Goal
-•	Introduction:
+## Introduction and Goal
+### Introduction:
 o	The rapid growth of digital transactions has led to an increase in credit card fraud, posing significant financial risks to consumers and institutions. Effective fraud detection systems are essential to mitigate these risks.
 o	This project leverages machine learning techniques to develop and evaluate models for detecting fraudulent transactions in a dataset of credit card transactions.
-•	Goal:
+### Goal:
 o	The primary goal of this project is to build a robust credit card fraud detection system that can accurately identify fraudulent transactions.
 o	To achieve this, multiple machine learning models will be trained and evaluated, with the best-performing model selected for deployment.
 
