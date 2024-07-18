@@ -47,12 +47,12 @@
 
 ## Model Training and Evaluation
 ### Logistic Regression (LR):
-•	Achieved training accuracy: 94.18%  
-•	Test accuracy: 93.68%  
+•	Achieved training accuracy: 94.31%  
+•	Test accuracy: 93.15%  
 •	Precision, Recall, and F1 scores for both training and test sets indicate good performance.
 ### 	Decision Tree (DT):
-•Training accuracy: 94.18%  
-•	Test accuracy: 88.42%  
+•Training accuracy: 94.31%  
+•	Test accuracy: 91.05%  
 •	Slightly lower performance compared to logistic regression.  
 ### Random Forest (RF):
 •	Training accuracy: 100%  
